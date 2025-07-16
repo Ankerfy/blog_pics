@@ -1,6 +1,6 @@
 # 📷 GitHub 自用图床使用说明
 
-> 本仓库作为个人图床使用，通过 [PicGo](https://github.com/Molunerfinn/PicGo) 工具实现一键上传图片到 GitHub 仓库，方便快捷地管理你的图片资源。
+> 本仓库作为个人图床使用，通过 [PicGo](https://github.com/Molunerfinn/PicGo) 工具实现一键上传图片到 GitHub 仓库，方便快捷地管理图片资源。
 
 ---
 
