@@ -50,7 +50,7 @@ GitHub 从 2021 年起不再支持使用用户名密码进行 API 操作，因�
 
 | 字段 | 示例 | 说明 |
 |------|------|------|
-| `token` | `ghp_xxxxx` || `github_pat_xxxxx` | 前者为经典token，后者为细粒度控制token |
+| `token` | `ghp_xxxxx` or `github_pat_xxxxx` | 前者为经典token，后者为细粒度控制token |
 | `仓库名` | `username/xxx` | xxx替换为仓库名 |
 | `分支名` | `main` 或 `master` | 通常为 `main` 或 `master` |
 | `路径` | `images/`（可选） | 图片上传到仓库中的哪个文件夹下 |
